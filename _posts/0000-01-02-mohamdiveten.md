@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Money for nothing, change for free
 Use the left arrow to go back!
